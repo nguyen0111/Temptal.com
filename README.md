@@ -31,11 +31,9 @@ Our model is simple:
 
 Here’s a glimpse of Temptal templates:
 
-![Template Screenshot 1](./screenshots/example1.png)  
-![Template Screenshot 2](./screenshots/example2.png)  
-![Template Screenshot 3](./screenshots/example3.png)
-
-*(Add more screenshots or GIFs inside `/screenshots` as needed.)*
+<img width="1656" height="934" alt="Image" src="https://github.com/user-attachments/assets/96a19a4b-09e0-4fa5-8559-e0a875ed5552" />
+<img width="1656" height="934" alt="Image" src="https://github.com/user-attachments/assets/b31ec986-f385-4b7e-b2b6-4c5f0f897ff7" />
+<img width="200" height="124" alt="Image" src="https://github.com/user-attachments/assets/aa8032a0-5e9a-499a-ac24-4818ef4977ba" />
 
 ---
 
